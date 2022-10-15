@@ -1,0 +1,95 @@
+Order,Level,Code,Parent,Description,This item includes,This item also includes,Rulings,This item excludes,Reference to ISIC Rev. 4
+39881,1,A,,"AGRICULTURE, FORESTRY AND FISHING","This section includes the exploitation of vegetal and animal natural resources, comprising the activities of growing of crops, raising and breeding of animals, harvesting of timber and other plants, animals or animal products from a farm or their natural habitats.",,,,A
+398482,2,1,A,"Crop and animal production, hunting and related service activities","This division includes two basic activities, namely the production of crop products and production of animal products, covering also the forms of organic agriculture, the growing of genetically modified crops and the raising of genetically modified animals. This division includes growing of crops in open fields as well in greenhouses.
+ 
+Group 01.5 (Mixed farming) breaks with the usual principles for identifying main activity. It accepts that many agricultural holdings have reasonably balanced crop and animal production, and that it would be arbitrary to classify them in one category or the other.","This division also includes service activities incidental to agriculture, as well as hunting, trapping and related activities.",,"Agricultural activities exclude any subsequent processing of the agricultural products (classified under divisions 10 and 11 (Manufacture of food products and beverages) and division 12 (Manufacture of tobacco products)), beyond that needed to prepare them for the primary markets. The preparation of products for the primary markets is included here.
+
+The division excludes field construction (e.g. agricultural land terracing, drainage, preparing rice paddies etc.) classified in section F (Construction) and buyers and cooperative associations engaged in the marketing of farm products classified in section G. Also excluded is the landscape care and maintenance, which is classified in class 81.30.",1
+398483,3,1.1,1,Growing of non-perennial crops,"This group includes the growing of non-perennial crops, i.e. plants that do not last for more than two growing seasons. Included is the growing of these plants for the purpose of seed production.",,,,11
+398484,4,1.11,1.1,"Growing of cereals (except rice), leguminous crops and oil seeds","This class includes all forms of growing of cereals, leguminous crops and oil seeds in open fields. The growing of these crops is often combined within agricultural units.
+
+This class includes:
+- growing of cereals such as:
+  . wheat
+  . grain maize
+  . sorghum
+  . barley
+  . rye
+  . oats
+  . millets
+  . other cereals n.e.c.
+- growing of leguminous crops such as:
+  . beans
+  . broad beans
+  . chick peas
+  . cow peas
+  . lentils
+  . lupines
+  . peas
+  . pigeon peas
+  . other leguminous crops
+- growing of oil seeds such as:
+  . soya beans
+  . groundnuts
+  . castor bean
+  . linseed
+  . mustard seed
+  . niger seed
+  . rapeseed
+  . safflower seed
+  . sesame seed
+  . sunflower seed
+  . other oil seeds",,,"This class excludes:
+- growing of rice, see 01.12
+- growing of sweet corn, see 01.13
+- growing of maize for fodder, see 01.19
+- growing of oleaginous fruits, see 01.26",111
+398485,4,1.12,1.1,Growing of rice,"This class includes:
+- growing of rice (including organic farming and the growing of genetically modified rice)",,,,112
+3986,4,1.13,1.1,"Growing of vegetables and melons, roots and tubers","This class includes:
+- growing of leafy or stem vegetables such as:
+  . artichokes
+  . asparagus
+  . cabbages
+  . cauliflower and broccoli
+  . lettuce and chicory
+  . spinach
+  . other leafy or stem vegetables
+- growing of fruit bearing vegetables such as:
+  . cucumbers and gherkins
+  . eggplants (aubergines)
+  . tomatoes
+  . watermelons
+  . cantaloupes
+  . other melons and fruit-bearing vegetables
+- growing of root, bulb or tuberous vegetables such as:
+  . carrots
+  . turnips
+  . garlic
+  . onions (incl. shallots)
+  . leeks and other alliaceous vegetables
+  . other root, bulb or tuberous vegetables
+- growing of mushrooms and truffles
+- growing of vegetable seeds, including sugar beet seeds, excluding other beet seeds
+- growing of sugar beet
+- growing of other vegetables
+- growing of roots and tubers such as:
+  . potatoes
+  . sweet potatoes
+  . cassava
+  . yams
+  . other roots and tubers",,,"This class excludes:
+- growing of chillies, peppers (capsicum sop.) and other spices and aromatic crops, see 01.28
+- growing of mushroom spawn, see 01.30",113
+398487,4,1.14,1.1,Growing of sugar cane,,,,"This class excludes:
+- growing of sugar beet, see 01.13",114
+398488,4,1.15,1.1,Growing of tobacco,"This class includes:
+- growing of unmanufactured tobacco",,,"This class excludes:
+- manufacture of tobacco products, see 12.00",115
+398489,4,1.16,1.1,Growing of fibre crops,"This class includes:
+- growing of cotton
+- growing of jute, kenaf and other textile bast fibres
+- growing of flax and true hemp
+- growing of sisal and other textile fibre of the genus agave
+- growing of abaca, ramie and other vegetable textile fibres
+- growing of other fibre crops",,,,116

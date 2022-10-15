@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2ebf48a2-b3ba-4c41-8973-20f4d93c58f4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2GARpl3QSpHDWyrf9Qv9fp58zO8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.debugger.capture" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.NaceControllerIT">
+    <configuration name="NaceController" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="nace-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.deutsche.naceservices.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.deutsche.naceservices.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.deutsche.naceservices.controller.NaceController" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NaceServicesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="nace-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.deutsche.naceservices.NaceServicesApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.NaceControllerIT" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ebf48a2-b3ba-4c41-8973-20f4d93c58f4" name="Default Changelist" comment="" />
+      <created>1665829586227</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665829586227</updated>
+      <workItem from="1665829588961" duration="1055000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="581" y="245" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1665829621650">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="581" y="245" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.25.1920.1055@0.25.1920.1055" timestamp="1665829621650" />
+    <state width="1878" height="450" key="GridCell.Tab.0.bottom" timestamp="1665830384166">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="450" key="GridCell.Tab.0.bottom/0.25.1920.1055@0.25.1920.1055" timestamp="1665830384166" />
+    <state width="1878" height="450" key="GridCell.Tab.0.center" timestamp="1665830384165">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="450" key="GridCell.Tab.0.center/0.25.1920.1055@0.25.1920.1055" timestamp="1665830384165" />
+    <state width="1878" height="450" key="GridCell.Tab.0.left" timestamp="1665830384165">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="450" key="GridCell.Tab.0.left/0.25.1920.1055@0.25.1920.1055" timestamp="1665830384165" />
+    <state width="1878" height="450" key="GridCell.Tab.0.right" timestamp="1665830384166">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="450" key="GridCell.Tab.0.right/0.25.1920.1055@0.25.1920.1055" timestamp="1665830384166" />
+    <state width="1878" height="450" key="GridCell.Tab.1.bottom" timestamp="1665830350059">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="450" key="GridCell.Tab.1.bottom/0.25.1920.1055@0.25.1920.1055" timestamp="1665830350059" />
+    <state width="1878" height="450" key="GridCell.Tab.1.center" timestamp="1665830350058">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="450" key="GridCell.Tab.1.center/0.25.1920.1055@0.25.1920.1055" timestamp="1665830350058" />
+    <state width="1878" height="450" key="GridCell.Tab.1.left" timestamp="1665830350058">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="450" key="GridCell.Tab.1.left/0.25.1920.1055@0.25.1920.1055" timestamp="1665830350058" />
+    <state width="1878" height="450" key="GridCell.Tab.1.right" timestamp="1665830350059">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="450" key="GridCell.Tab.1.right/0.25.1920.1055@0.25.1920.1055" timestamp="1665830350059" />
+    <state x="659" y="185" width="602" height="735" key="find.popup" timestamp="1665830206170">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="659" y="185" width="602" height="735" key="find.popup/0.25.1920.1055@0.25.1920.1055" timestamp="1665830206170" />
+  </component>
+</project>
