@@ -1,6 +1,7 @@
 package com.deutsche.naceservices.service.impl;
 
 import java.util.List;
+import java.util.Objects;
 import java.util.Optional;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -17,6 +18,16 @@ public class NaceServiceImpl implements NaceService{
 
 	@Autowired
 	NaceRepository naceRepository;
+
+	@Override
+	public boolean equals(Object o) {
+		return false;
+	}
+
+	@Override
+	public int hashCode() {
+		return Objects.hash(naceRepository);
+	}
 
 	@Override
 	public List<NaceOrder> persistNaceDetails(MultipartFile file) {

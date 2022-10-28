@@ -30,7 +30,7 @@ import com.deutsche.naceservices.utility.NaceCSVHelper;
 
 @SpringBootTest(webEnvironment = RANDOM_PORT)
 @AutoConfigureMockMvc
-public class NaceController {
+public class NaceControllerTest {
 
 	@Autowired
 	NaceRepository naceRepository;

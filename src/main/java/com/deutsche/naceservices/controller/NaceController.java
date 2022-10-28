@@ -1,7 +1,8 @@
 package com.deutsche.naceservices.controller;
 
 import java.util.List;
-
+import java.lang.Object;
+import com.deutsche.naceservices.service.impl.NaceServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -26,6 +27,22 @@ public class NaceController {
 	@Autowired
 	NaceService naceService;
 
+	/*@Autowired
+	NaceService naceService2;
+
+
+	int a;
+	int b;
+	// ==
+
+	private boolean checkNaceService(){
+		if(naceService.equals(naceService2)){
+			return true;
+		} else{
+			return false;
+		}
+	}*/
+
 	@PostMapping("/persistNaceDetails")
 	public ResponseEntity<ResponseMessage> persistNaceDetails(@RequestParam("file") MultipartFile file) {
 		String message = "";
@@ -46,8 +63,10 @@ public class NaceController {
 
 	@GetMapping("/getNaceDetails/{orderId}")
 	public ResponseEntity<?> getNaceDetails(@PathVariable Integer orderId) {
+
 		NaceOrder naceOrder = naceService.getNaceDetails(orderId)
 				.orElseThrow(() -> new NaceOrderNotFoundException("Nace order " + orderId + " does not exist "));
+		
 		return ResponseEntity.status(HttpStatus.OK).body(naceOrder);
 	}
 
